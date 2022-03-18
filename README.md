@@ -4,7 +4,7 @@
 
 
 Pré-Requisitos:
-- VS Code (Rider)
+- VS Code / Rider
 - Extensões C# (no caso do VS Code)
 - SDK da Microsoft
 
